@@ -2,9 +2,9 @@
   "id": "tetra",
   "name": "Tetra",
   "author": [
-    "Anonymous"
+    "KassandraKasakov"
   ],
-  "description": "Custom jokers created with Joker Forge",
+  "description": "An unbalanced mod for Balatro !",
   "prefix": "tetra",
   "main_file": "main.lua",
   "version": "1.0.a",
